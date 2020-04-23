@@ -1,25 +1,25 @@
 {
 	"data": [{
 			"Name": "Whistler Blackcomb",
-			"Price per day": "9875грн.",
+			"Price_per_day": "9875грн.",
 			"Address": "Канада, Вістлер",
 			"Web-Site": "www.whistlerblackcomb.com",
 		},
 		{
 			"Name": "Славське",
-			"Price per day": "1630грн.",
+			"Price_per_day": "1630грн.",
 			"Address": "Україна, Славське",
 			"Web-Site": "www.slavske-ua.com",
 		},
 		{
 			"Name": "Драгобрат",
-			"Price per day": "2040грн.",
+			"Price_per_day": "2040грн.",
 			"Address": "Україна, Драгобрат",
 			"Web-Site": "www.dragobrat.biz",
 		},
 		{
 			"Name": "Буковель",
-			"Price per day": "4560грн.",
+			"Price_per_day": "4560грн.",
 			"Address": "Україна, Поляниця",
 			"Web-Site": "www.bukovel.com",
 		}
